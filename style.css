@@ -44,7 +44,14 @@ li {
 ol {
     background-color:#0039e6;   
 }    
-
+h3 {		
+    background-color:#0039e6;		
+    border-radius: 10px;		
+     border-style: solid;		
+     width: 520px;		
+    text-align: center;		
+    color:#000000;
+}
 
 .footer {
     
