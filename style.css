@@ -1,6 +1,6 @@
 body {
     background-image: url("https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcS5342phakTyR38WsIWm0ouqcVhyuOAMwUSpYx8H_OGvC8RNINuqw");
-    font-family: 'Ubuntu', sans-serif;
+    font-family: arial,courier, monospace;
 }
     
     h1 {
@@ -11,10 +11,19 @@ body {
     padding: 3px;
 }
 
+h3 {
+    background-color:#0039e6;
+    border-radius: 10px;
+    border-style: solid;
+    width: 520px;
+    text-align: center;
+    color:#000000
+}
+
 p {
     background-color:#0039e6;
     border-radius: 10px;
-   font-family: 'Ubuntu', sans-serif;
+   font-family: arial,courier, monospace;
     color:#000000;
     font-weight: bold;
     font-size: 20px;
@@ -27,9 +36,14 @@ p {
 
 img {
     display: block;
-    margin-left: auto;
-    margin-right: auto;
-    padding: 85px;
+    margin-left: 50px;
+    margin-right: 250px;
+    padding: 100px;
+    background-color:#0039e6;
+    height:400px;
+    width:400px;
+    
+    
 }
 
 li {
@@ -37,18 +51,11 @@ li {
     font-weight: bold;
     border-right: 1px solid #1FE1FE;
     background-color:#0039e6;
-   font-family: 'Ubuntu', sans-serif;
+    font-family: courier, monospace;
 
 }
 
 ol {
     background-color:#0039e6;   
 }    
-h3 {		
-    background-color:#0039e6;		
-    border-radius: 10px;		
-     border-style: solid;		
-     width: 520px;		
-    text-align: center;		
-    color:#000000;
-}
+
