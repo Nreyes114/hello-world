@@ -1,6 +1,6 @@
 body {
     background-image: url("https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcS5342phakTyR38WsIWm0ouqcVhyuOAMwUSpYx8H_OGvC8RNINuqw");
-    font-family: arial,courier, monospace;
+    font-family: 'Ubuntu', sans-serif;
 }
     
     h1 {
@@ -23,7 +23,7 @@ h3 {
 p {
     background-color:#0039e6;
     border-radius: 10px;
-   font-family: arial,courier, monospace;
+    font-family: 'Ubuntu', sans-serif;
     color:#000000;
     font-weight: bold;
     font-size: 20px;
@@ -51,8 +51,7 @@ li {
     font-weight: bold;
     border-right: 1px solid #1FE1FE;
     background-color:#0039e6;
-    font-family: courier, monospace;
-
+    font-family: 'Ubuntu', sans-serif;
 }
 
 ol {
